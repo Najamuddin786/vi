@@ -4,7 +4,7 @@ import connection from "./db.js"; // Assuming your MongoDB connection is handled
 
 
 let app = express();
-let port = 3000;
+let port = 3100;
 // app.use(cors());
 
 // Middleware to parse JSON
